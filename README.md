@@ -1,1 +1,1 @@
-"Bu satir main dali tarafindan yazildi" 
+"Bu satir ekip karariyla ortak cozuldu" 
