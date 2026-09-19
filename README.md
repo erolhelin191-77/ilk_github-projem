@@ -1,1 +1,1 @@
-Bu kod deneme dalindan geldi 
+"Bu satir cakisma-dali tarafindan yazildi" 
