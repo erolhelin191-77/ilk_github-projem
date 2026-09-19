@@ -1,1 +1,1 @@
-Bu kod main dalindan geldi 
+Bu kod deneme dalindan geldi 
